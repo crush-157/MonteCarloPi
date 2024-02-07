@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Class-Path: resources/ classes/ libs/micronaut-picocli-5.1.0.jar libs/pi
+ cocli-4.7.5.jar libs/micronaut-serde-jackson-2.4.0.jar libs/micronaut-s
+ erde-support-2.4.0.jar libs/micronaut-serde-api-2.4.0.jar libs/micronau
+ t-jackson-core-4.2.4.jar libs/micronaut-json-core-4.2.4.jar libs/micron
+ aut-http-4.2.4.jar libs/micronaut-context-propagation-4.2.4.jar libs/mi
+ cronaut-context-4.2.4.jar libs/micronaut-aop-4.2.4.jar libs/micronaut-i
+ nject-4.2.4.jar libs/logback-classic-1.4.13.jar libs/jackson-annotation
+ s-2.15.3.jar libs/jackson-core-2.15.3.jar libs/jakarta.annotation-api-2
+ .1.1.jar libs/reactor-core-3.5.11.jar libs/micronaut-core-reactive-4.2.
+ 4.jar libs/reactive-streams-1.0.4.jar libs/micronaut-core-4.2.4.jar lib
+ s/logback-core-1.4.13.jar libs/slf4j-api-2.0.9.jar libs/jakarta.inject-
+ api-2.0.1.jar
+Main-Class: com.oracle.labs.montecarlo.PiCommand
+
